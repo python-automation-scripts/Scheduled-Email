@@ -1,0 +1,24 @@
+
+
+ Files Deleted  At  :  2019-04-20 23:10:41.433053
+
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 11\Dir\abc - Copy - Copy - Copy.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 11\Dir\pqr - Copy - Copy - Copy.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 11\Dir\xyz - Copy - Copy - Copy.txt
+
+
+ Files Deleted  At  :  2019-04-20 23:11:21.851187
+
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 11\Dir\abc - Copy - Copy - Copy - Copy.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 11\Dir\pqr - Copy - Copy - Copy - Copy.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Assignment 11\Dir\xyz - Copy - Copy - Copy - Copy.txt
+
+
+ Files Deleted  At  :  2019-04-21 01:03:37.548092
+
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Email and file deletion\dir\abc - Copy.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Email and file deletion\dir\abc.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Email and file deletion\dir\pqr - Copy.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Email and file deletion\dir\pqr.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Email and file deletion\dir\xyz - Copy.txt
+F:\ALL SOFTWARE\marvellous study material\Python\Assignments\Email and file deletion\dir\xyz.txt

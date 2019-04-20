@@ -1,0 +1,40 @@
+
+
+ Error :  name 'Output_File' is not defined
+ Log Time 2019-04-21 01:01:45.343481
+
+
+
+ Error :  CreateOutput() takes 1 positional argument but 2 were given
+ Log Time 2019-04-21 01:02:51.784902
+
+
+
+ Error :  name 'os' is not defined
+ Log Time 2019-04-21 01:03:57.727703
+
+
+
+ Error :  Invalid time format
+ Log Time 2019-04-21 01:11:11.222959
+
+
+
+ Error :  Invalid time format
+ Log Time 2019-04-21 01:11:14.661096
+
+
+
+ Error :  Invalid time format
+ Log Time 2019-04-21 01:14:48.472151
+
+
+
+ Error :  'Job' object is not callable
+ Log Time 2019-04-21 01:14:57.091203
+
+
+
+ Error :  Invalid time format
+ Log Time 2019-04-21 01:15:34.104703
+
