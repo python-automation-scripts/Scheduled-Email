@@ -38,3 +38,13 @@
  Error :  Invalid time format
  Log Time 2019-04-21 01:15:34.104703
 
+
+
+ Error :  Invalid unit
+ Log Time 2019-04-21 12:20:04.483355
+
+
+
+ Error :  name 'urllibURLError' is not defined
+ Log Time 2019-04-21 12:21:12.631058
+

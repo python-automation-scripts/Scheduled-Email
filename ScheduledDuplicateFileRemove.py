@@ -25,9 +25,9 @@ def CreateOutput(DirName,Output_File):
 
 def sendmail(UserName,Password,To_FileName,Attachment):
 	if(os.path.exists(To_FileName) and os.path.exists(Attachment)):
-		if(is_connected()):
+		if(EmailModule.is_connected()):
 			EmailModule.sendmail(UserName,Password,To_FileName,Attachment);
-		
+
 
 def main():
 	if  len(argv) != 5:

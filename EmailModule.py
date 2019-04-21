@@ -1,6 +1,6 @@
 import re;
 import smtplib;
-import urllib;
+import urllib.request as urllib2
 import os;
 from email.mime.multipart import MIMEMultipart 
 from email.mime.text import MIMEText 
@@ -9,9 +9,10 @@ from email import encoders
 
 def is_connected():
 	try:
-		urllib.urlopen("http://216.58.192.142",timeout = 5);
+		urllib2.urlopen("http://216.58.192.142",timeout = 10);
 		return True;
-	except urllibURLError as err:
+	except Exception as err:
+		print("not connected",err);
 		return False;
 
 def findemail(To_FileName):
